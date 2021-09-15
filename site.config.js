@@ -20,6 +20,7 @@ module.exports = {
   twitter: '@IsaacXiaoyuan',
   github: 'luminousking',
   linkedin: 'xiaoyuan-isaac-wang-2907531a7/',
+  instagram: 'isaac_wxy',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
